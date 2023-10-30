@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHistory.ConsoleApp", "src\ChatHistory.ConsoleApp\ChatHistory.ConsoleApp.csproj", "{D3BF6D2E-707A-4EF0-96D4-4CEFD34C381A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AB5836A3-6019-4758-B210-21399D7C3042}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6EC7718F-EDA4-4C63-BD94-0236D15776B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHistory.UnitTests", "tests\ChatHistory.UnitTests\ChatHistory.UnitTests.csproj", "{385B810A-2AF8-4337-BCDF-548918BFCBD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BF6D2E-707A-4EF0-96D4-4CEFD34C381A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BF6D2E-707A-4EF0-96D4-4CEFD34C381A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BF6D2E-707A-4EF0-96D4-4CEFD34C381A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BF6D2E-707A-4EF0-96D4-4CEFD34C381A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385B810A-2AF8-4337-BCDF-548918BFCBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385B810A-2AF8-4337-BCDF-548918BFCBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385B810A-2AF8-4337-BCDF-548918BFCBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385B810A-2AF8-4337-BCDF-548918BFCBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D3BF6D2E-707A-4EF0-96D4-4CEFD34C381A} = {AB5836A3-6019-4758-B210-21399D7C3042}
+		{385B810A-2AF8-4337-BCDF-548918BFCBD0} = {6EC7718F-EDA4-4C63-BD94-0236D15776B0}
+	EndGlobalSection
+EndGlobal
