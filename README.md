@@ -34,7 +34,7 @@ To get started with this project, follow these steps:
 2. Clone this repository to your local machine.
 
    ```shell
-   git clone https://github.com/your-username/chat-history.git
+   git clone https://github.com/sergiu-gheorghe/chat-history.git
    ```
 
 3. Build the project using your preferred development environment or the command line.
